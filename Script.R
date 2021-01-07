@@ -3,6 +3,9 @@ library(dplyr)
 library(readxl)
 Datamodified <- read_excel("~/Documents/Datamodified.xlsx")
 
+##NB you need to upload the dataset from where it is positioned on your computer, or manually. 
+
+## You can find the dataset i used on my github account. It is called "Datamodified"
 
 ## Cleaning up data. Here im making sure there are no missing data.
 View(Datamodified)
