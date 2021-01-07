@@ -3,7 +3,7 @@ library(dplyr)
 library(readxl)
 Datamodified <- read_excel("~/Documents/Datamodified.xlsx")
 
-##NB you need to upload the dataset from where it is positioned on your computer, or manually. 
+##NB The path may vary based on where you save the dataset on your computer. Please modify it to accomodate where you have positioned the dataset on your computer. Or else you can manually insert it into R.
 
 ## You can find the dataset i used on my github account. It is called "Datamodified"
 
